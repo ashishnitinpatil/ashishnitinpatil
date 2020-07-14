@@ -1,9 +1,9 @@
-### Hi there 👋
-
+🐍 Pythonista | ⚭ Husband | 🎓 Engineer | 🎮 Dota2 fanatic<br>
+Tech. Lead @ <a href="https://www.mysyara.com">MySyara</a> | Certified BlockChain Dev<br>
+Love problem solving & programming for the same.<br>
+<a href="https://stackoverflow.com/users/2689986/shad0w-wa1k3r"><img src="https://stackoverflow.com/users/flair/2689986.png?theme=clean" width="208" height="58" alt="profile for shad0w_wa1k3r at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for shad0w_wa1k3r at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
 **ashishnitinpatil/ashishnitinpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
